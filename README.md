@@ -1,5 +1,3 @@
-## Explorer Rocketseat
-
 ## Projetos
 
 | Nível | Projeto                                                                                                              |
